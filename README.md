@@ -1,4 +1,4 @@
-# 🌟 Ambiente produtivo para desenvolvimento web React | JavaScript | Node.js
+# 🌟 Ambiente produtivo para desenvolvimento web React | JavaScript | Next.js
 
 O foco deste conteúdo é no ambiente usado, no Terminal e configurações do VSCode para desenvolvimento com JavaScript. Vamos trabalhar nos pilares:
 
